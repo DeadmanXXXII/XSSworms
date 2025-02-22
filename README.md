@@ -1,6 +1,11 @@
 # XSSworms
 Based on samy
+
+## Warning
 These are dangerous use only in red team DV cleared operations ensuring all data ex-filtration is secured and encrypted.
+Or use in places like owasp juice shop for educationa only.
+
+### Fill in the placeholders yourself or I would go to jail for this.
 
 Functional
 ```javascript
