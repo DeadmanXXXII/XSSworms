@@ -1,0 +1,2 @@
+# XSSworms
+Based on samy
